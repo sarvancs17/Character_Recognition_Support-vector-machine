@@ -41,5 +41,5 @@ The project uses a standard handwritten character dataset such as the load_digit
 
 ## Screenshots
 
-
+![image](https://github.com/user-attachments/assets/114cf7b9-7054-4f62-b4a5-ed501c6e94b6)
 
