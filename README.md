@@ -1,18 +1,10 @@
 
 # Handwritten Character Recognition
 
-Handwritten Character Recognition (HCR) is a deep learning-based project designed to recognize and classify handwritten characters. This project uses a Convolutional Neural Network (CNN) trained on a dataset of handwritten characters to achieve high accuracy.
+Handwritten Character Recognition (HCR) using Support Vector Machine .
 
 
 ## Features
-
-Supports recognition of uppercase and lowercase alphabets.
-
-Utilizes a deep learning model built with TensorFlow/Keras.
-
-Uses OpenCV for image preprocessing.
-
-Achieves high accuracy with a well-trained CNN model.
 
 Can be integrated into real-world applications such as OCR systems.
 
